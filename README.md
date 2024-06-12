@@ -2,6 +2,8 @@
 
 ## Welcome to Pump.Fun Bundler, Where Token Launching is a Breeze!
 
+## For purchase: tg @SolScriptsDev
+
 ### Features that Make Pump.Fun Bundler Irresistible:
 
 #### Effortless User Interface:
