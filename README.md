@@ -32,4 +32,4 @@
 > Easily return SOL balances from sub wallets to the main wallet in one swift transaction.
 
 Make your token launching experience smoother, faster, and more enjoyable with Pump.Fun Bundler! 🚀🎉
-![alt text]([http://url/to/img.png](https://github.com/SolDevRay/Pump.fun-Bundler/blob/main/Screenshot_bundler.png))
+![alt text](https://github.com/SolDevRay/Pump.fun-Bundler/blob/main/Screenshot_bundler.png)
